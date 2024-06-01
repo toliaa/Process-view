@@ -110,5 +110,10 @@ namespace ProcessManager
                 MessageBox.Show(info, "Threads and Modules Information", MessageBoxButtons.OK, MessageBoxIcon.Information); // Show threads and modules information
             }
         }
+
+        private void ProcessViewForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
