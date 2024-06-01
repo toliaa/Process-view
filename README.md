@@ -23,7 +23,7 @@ Process View is a Windows Forms application built using C#. This application all
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Process-view.git
+    git clone https://github.com/toliaa/Process-view.git
     ```
 2. Open the solution file (`Process view.sln`) in Visual Studio.
 3. Build the solution to restore dependencies and compile the project.
